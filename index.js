@@ -1,6 +1,6 @@
 class Circle {
   constructor(radius) {
-    return this.radius = radius;
+    this.radius = radius;
   }
   
   get diameter(radius) {
